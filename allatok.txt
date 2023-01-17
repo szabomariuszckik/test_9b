@@ -3,3 +3,9 @@ sun
 oroszlan
 foka
 gepard
+kutya
+macska
+tengerimalac
+majom
+elefant
+beka
